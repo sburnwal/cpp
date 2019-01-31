@@ -1,0 +1,1 @@
+-Wno-error=unused-but-set-variable: ConstructionTest.cc
